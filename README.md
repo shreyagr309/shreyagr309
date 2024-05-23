@@ -2,7 +2,6 @@
 - 👀 I’m interested in Gaming 
 - 🌱 I’m currently learning Android Dev
 - 📫 How to reach me via email: shreyagrawal499@gmail.com 
-- ⚡ Fun fact: Nothing😔
 
 <!---
 shreyagr309/shreyagr309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
