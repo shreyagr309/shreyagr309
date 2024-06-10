@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shrey
-- 👀 I’m interested in Gaming 
 - 🌱 I’m currently learning Android Dev
 - 📫 How to reach me via email: shreyagrawal499@gmail.com 
 
